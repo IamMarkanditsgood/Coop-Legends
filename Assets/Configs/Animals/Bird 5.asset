@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 5
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 51171303d8a6d154aaff9b403e3b4c96, type: 3}
+  Name: Leghorn Zoomer
+  Description: "Fast, feisty, and always on the move \u2014 the Leghorn Zoomer is
+    the ultimate egg-laying machine with energy to spare. With her sleek white feathers
+    and bright yellow legs, she zips around the farm like she\u2019s late for something
+    important (probably egg business). Leghorns are known for their incredible productivity.
+    These birds can lay over 300 eggs a year \u2014 they basically treat egg-laying
+    like a competitive sport. They're alert, independent, and not too fond of cuddles,
+    but they\u2019ll keep your egg counters full and your coop lively. Originally
+    from Italy, the Leghorn became a global superstar in the poultry world thanks
+    to her hardworking nature and adaptability. If she had a motto, it\u2019d be
+    \u201CLess talk, more eggs.\u201D She\u2019s a little noisy, a little wild, and
+    completely unstoppable. In your game, Leghorn Zoomer brings speed and serious
+    output. She\u2019s not here to make friends \u2014 she\u2019s here to break records.
+    Expect chaos, clucks, and a whole lot of eggs. "

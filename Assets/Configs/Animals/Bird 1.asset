@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 400877f01c03f794ea8c91da0f7e8fa2, type: 3}
+  Name: Brahma Giant
+  Description: "The Brahma is a true heavyweight in the chicken world \u2014 tall,
+    broad, and covered in thick, feathery fluff that makes it look even bigger. With
+    feathered legs and a slow, regal walk, the Brahma carries itself like the monarch
+    of the barnyard. Don\u2019t let the size fool you though \u2014 this gentle giant
+    is all about peace. Known for their calm and patient nature, Brahmas are surprisingly
+    friendly and easygoing. They don\u2019t mind being picked up (if you can lift
+    them!) and rarely cause trouble. If your coop had a sofa, the Brahma would be
+    lounging on it with a cup of tea, nodding wisely at the chaos around her. Originally
+    bred in the U.S. from chickens with roots in India and China, the Brahma was
+    once considered the king of meat birds in the 19th century. Some even reached
+    up to 12 pounds! Today, they\u2019re more often raised for show, companionship,
+    or simply because they\u2019re so darn impressive. In your game, Brahma Giant
+    brings big energy, slow strides, and a very chill vibe. She may not be fast,
+    but every egg she lays feels like a royal gift. Think of her as the matriarch
+    of your growing flock. "

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 4
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: c12a196f2292a6748ada1b8252fae976, type: 3}
+  Name: Ayam Cemani
+  Description: "Mysterious, sleek, and dressed head-to-toe in black \u2014 the Ayam
+    Cemani is the shadowy legend of the chicken world. Not only are its feathers
+    a deep, shimmering black, but so are its skin, beak, comb, tongue, and even its
+    internal organs. It\u2019s the goth icon of the coop. Despite the dramatic appearance,
+    Cemani chickens are surprisingly calm and gentle. They tend to be quiet and composed,
+    moving through the flock like silent guardians. While they\u2019re not the most
+    productive egg layers, they more than make up for it with their unforgettable
+    presence. Originating in Indonesia, the Ayam Cemani has long been associated
+    with spiritual rituals and local legends. Some believe it brings power, protection,
+    or even good luck. Whether or not that\u2019s true, one thing\u2019s for sure
+    \u2014 this bird feels like it has secrets. In your game, Ayam Cemani adds mystery
+    and elegance. She\u2019s the dark horse of your flock (well, chicken), and her
+    mere existence raises your coop\u2019s cool factor by at least 200%. Just...
+    don\u2019t ask what she\u2019s planning. "

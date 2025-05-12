@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 3
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 6d5fdc75ea55e174aa704be3f56749df, type: 3}
+  Name: Sebright Spark
+  Description: "Tiny, shiny, and full of energy \u2014 the Sebright Spark is like
+    a walking piece of jewelry with wings. With striking laced feathers that look
+    hand-drawn in black ink, this bantam breed turns heads wherever she struts. She\u2019s
+    small, but her attitude? Huge. Sebrights are bold and curious, often acting like
+    they\u2019re twice their actual size. They zip around the coop like they own
+    the place and aren\u2019t afraid to confront chickens five times their weight.
+    Full of confidence and charm, they\u2019re natural attention-seekers \u2014 and
+    honestly, they deserve it. This glamorous breed was created in England in the
+    early 1800s by Sir John Sebright, who wanted a chicken that looked elegant and
+    ornamental. Mission accomplished: the Sebright remains one of the most stylish
+    and unique-looking birds in the poultry world. In your game, Sebright Spark adds
+    sparkle and sass. She doesn\u2019t lay many eggs, but she brings drama, confidence,
+    and serious main-character energy. Think of her as the glitter in your chicken
+    empire. "

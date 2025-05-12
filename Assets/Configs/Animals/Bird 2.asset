@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 89c189c8f22fcd6439dcdebb9d814e3a, type: 3}
+  Name: Polish Crest
+  Description: "With a head full of wild feathers that looks more like a fluffy wig
+    than a hairstyle, the Polish Crest is one of the most eye-catching chickens around.
+    Its massive, poofy crest often covers its eyes entirely, giving it a perpetually
+    surprised \u2014 or slightly confused \u2014 expression. Despite their dramatic
+    looks, Polish chickens are actually quite sweet and gentle. They\u2019re curious
+    and social, but their limited vision can make them a bit jumpy or clumsy. It\u2019s
+    not uncommon to see one bump into a fence post or mistake a feather for a snack.
+    But hey \u2014 style comes at a cost. This breed has been around for centuries,
+    with roots tracing back to Europe. They were especially popular in royal courts
+    and art, admired more for their looks than their eggs. With that iconic crest,
+    it\u2019s easy to see why they were considered living decorations. In your game,
+    Polish Crest brings flair, fashion, and a little chaos. She might not see where
+    she\u2019s going, but she\u2019s absolutely strutting there in style. Every coop
+    needs a drama queen \u2014 and this one wears her crown proudly. "

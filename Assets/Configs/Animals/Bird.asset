@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: f7da60aabf5f5b74dba0dd642b609f18, type: 3}
+  Name: Silkie Fluff
+  Description: "At first glance, the Silkie looks more like a fuzzy pom-pom than
+    a chicken. Its feathers are so soft and fine that they feel like silk or cotton
+    candy \u2014 hence the name. Fluff covers its entire body, even its legs! And
+    under all that softness? Jet-black skin and bones. Yep, this bird is black inside,
+    but don\u2019t worry \u2014 she\u2019s a total sweetheart. Silkies are famous
+    for their calm and cuddly personalities. Many people keep them as pets or show
+    birds, and they\u2019re especially popular with kids. They\u2019re not great
+    at flying, but they are excellent mothers \u2014 they\u2019ll even raise other
+    chickens\u2019 babies if you let them! The breed originated in China, where it
+    was once believed to have magical properties. In ancient times, people thought
+    Silkie meat could boost health and even extend life. Some legends claimed they
+    were connected to the spirit world thanks to their mystical appearance. In your
+    coop, Silkie Fluff is a symbol of pure coziness and gentle chaos. She might not
+    be the most productive chicken, but she\u2019s definitely the fluffiest. Don\u2019t
+    be surprised if you find yourself building her a tiny couch in the henhouse. "

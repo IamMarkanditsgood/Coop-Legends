@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
+  m_Name: Bird 7
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: eaed5b293d427de49bfe20574d5bd603, type: 3}
+  Name: Cochin Puff
+  Description: "Round, fluffy, and slower than a nap in the sun \u2014 Cochin Puff
+    is basically a feather-covered pillow with legs. This gentle giant waddles around
+    with an air of calm wisdom, looking like she\u2019s wearing a ballgown made of
+    feathers. And yes, she\u2019s just as soft as she looks. Cochins are beloved
+    for their docile nature and cuddly appearance. They\u2019re not in a hurry \u2014
+    ever. Instead, they prefer to take their time, sit in cozy corners, and occasionally
+    bless the world with an egg or two. They\u2019re the queens of comfort and are
+    often the first to settle in for a good long sit. Originally from China, Cochins
+    gained popularity in Europe and America during the 19th century \u201Chen craze\u201D
+    thanks to their sheer fluffiness and novelty. They\u2019re often raised more
+    for companionship and looks than for egg production. In your game, Cochin Puff
+    brings tranquility and volume \u2014 of feathers, that is. She\u2019s not the
+    fastest or the flashiest, but she\u2019s definitely the coziest. A living beanbag
+    chair, and proud of it. "
